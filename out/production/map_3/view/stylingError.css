@@ -1,0 +1,23 @@
+.dialog-pane {
+    -fx-background-color: #2e1929;
+}
+
+.dialog-pane > .expandable-content {
+    -fx-padding: 0.666em; /* 8px */
+}
+
+.dialog-pane .label {
+    -fx-text-fill: #e191ff;
+    -fx-font-family: Arial;
+    -fx-font-size: 12;
+    -fx-background-size: 100% 100%;
+}
+
+.dialog-pane .header-panel {
+    -fx-background-color: #1d0e18;
+}
+
+.dialog-pane .header-panel .label {
+    -fx-font-family: "Arial Rounded MT Bold";
+    -fx-font-size: 12;
+}

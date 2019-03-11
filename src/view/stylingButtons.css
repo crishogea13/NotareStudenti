@@ -1,0 +1,10 @@
+.button {
+    -fx-font-family: "Britannic Bold";
+    -fx-text-fill: #eed5e2;
+    -fx-font-size: 15;
+    -fx-padding: 5;
+    -fx-background-color: #410436;
+    -fx-border-color: rgb(187, 44, 170);
+    -fx-border-radius: 2px;
+    -fx-effect: dropshadow( one-pass-box , #e231d0, 8 , 0.0 , 2 , 0 );;
+}

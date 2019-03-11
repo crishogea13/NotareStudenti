@@ -1,0 +1,1195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/Main.java" line="121" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ca8b838-7237-4282-bfd3-aef71393be15" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/map_3$domain_tests_in_map_3.ic" NAME="domain.tests in map_3 Coverage Results" MODIFIED="1540755007510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>domain.tests.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/map_3$Main.ic" NAME="Main Coverage Results" MODIFIED="1540743394989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/map_3$TemaServiceTest.ic" NAME="TemaServiceTest Coverage Results" MODIFIED="1540754710662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>service.tests.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/map_3$StudentTest.ic" NAME="StudentTest Coverage Results" MODIFIED="1540743355392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>domain.tests.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/map_3$All_Features_in__src.ic" NAME="All Features in: src Coverage Results" MODIFIED="1540755370320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="229" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1578892762">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="63" />
+          <entry key="project.open.time.0" value="10" />
+          <entry key="project.open.time.1" value="9" />
+          <entry key="project.open.time.10" value="4" />
+          <entry key="project.open.time.11" value="9" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="5" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.7" value="5" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="68" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="12220" value="3" />
+          <entry key="12318" value="6" />
+          <entry key="12320" value="2" />
+          <entry key="12345" value="1" />
+          <entry key="12456" value="1" />
+          <entry key="Catalog" value="16" />
+          <entry key="InceputSemestrul1" value="1" />
+          <entry key="JAVA/" value="1" />
+          <entry key="Nota" value="2" />
+          <entry key="StudentTest" value="2" />
+          <entry key="Studenti" value="27" />
+          <entry key="StudentiTest" value="5" />
+          <entry key="Teme" value="20" />
+          <entry key="Temes" value="2" />
+          <entry key="class" value="5" />
+          <entry key="css" value="23" />
+          <entry key="fisier" value="1" />
+          <entry key="fxml" value="27" />
+          <entry key="html" value="2" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="968" />
+          <entry key="test" value="1" />
+          <entry key="txt" value="4" />
+          <entry key="xml" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="5" />
+          <entry key="CSS" value="23" />
+          <entry key="HTML" value="2" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="968" />
+          <entry key="PLAIN_TEXT" value="92" />
+          <entry key="UML" value="3" />
+          <entry key="XML" value="57" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Catalog" value="133" />
+          <entry key="InceputSemestrul1" value="10" />
+          <entry key="StudentTest" value="25" />
+          <entry key="Studenti" value="741" />
+          <entry key="Teme" value="331" />
+          <entry key="css" value="908" />
+          <entry key="dummy" value="45" />
+          <entry key="fisier" value="1" />
+          <entry key="fxml" value="66" />
+          <entry key="java" value="64694" />
+          <entry key="xml" value="329" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="908" />
+          <entry key="JAVA" value="64694" />
+          <entry key="PLAIN_TEXT" value="1286" />
+          <entry key="XML" value="395" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="834955929">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JAVA/" value="1" />
+          <entry key="JAVA/domain" value="1" />
+          <entry key="java" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="7" />
+          <entry key="UML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/repository/CrudRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="457">
+              <caret line="55" column="7" selection-start-line="51" selection-start-column="31" selection-end-line="55" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/domain/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="33" selection-start-line="9" selection-start-column="4" selection-end-line="13" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="113" column="27" selection-start-line="113" selection-start-column="27" selection-end-line="113" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>exce</find>
+      <find>excep</find>
+      <find>catch</find>
+      <find>left</find>
+      <find>setLeft</find>
+      <find>center</find>
+      <find>padding</find>
+      <find>show</find>
+      <find>showE</find>
+      <find>disable</find>
+      <find>disab</find>
+      <find>bindi</find>
+      <find>choice</find>
+      <find>serv</find>
+      <find>add</find>
+      <find>combo</find>
+      <find>toggle</find>
+      <find>init</find>
+      <find>selec</find>
+      <find>auto</find>
+      <find>student</find>
+      <find>NotaDTO</find>
+      <find>nume</find>
+      <find>grupa</find>
+      <find>grupe</find>
+      <find>back</find>
+      <find>defa</find>
+      <find>model</find>
+      <find>textField</find>
+      <find>numeStu</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data/Studenti" />
+        <option value="$PROJECT_DIR$/data/Teme" />
+        <option value="$PROJECT_DIR$/src/ui/Commands.java" />
+        <option value="$PROJECT_DIR$/src/ui/Command.java" />
+        <option value="$PROJECT_DIR$/src/domain/Nota.java" />
+        <option value="$PROJECT_DIR$/src/repository/CrudRepository.java" />
+        <option value="$PROJECT_DIR$/data/Catalog" />
+        <option value="$PROJECT_DIR$/src/repository/inFile/NotaInFileRepository.java" />
+        <option value="$PROJECT_DIR$/src/repository/inFile/AbstractInFileRepository.java" />
+        <option value="$PROJECT_DIR$/src/repository/inXML/StudentXMLRepository.java" />
+        <option value="$PROJECT_DIR$/src/repository/inXML/TemaXMLRepository.java" />
+        <option value="$PROJECT_DIR$/src/repository/inXML/NotaXMLRepository.java" />
+        <option value="$PROJECT_DIR$/src/repository/inXML/AbstractXMLRepository.java" />
+        <option value="$PROJECT_DIR$/src/utils/ChangeEventType.java" />
+        <option value="$PROJECT_DIR$/src/utils/StudentChangeEvent.java" />
+        <option value="$PROJECT_DIR$/src/utils/Observer.java" />
+        <option value="$PROJECT_DIR$/src/utils/Observable.java" />
+        <option value="$PROJECT_DIR$/src/controller/StudentController.java" />
+        <option value="$PROJECT_DIR$/stylingWithCSS/tabelStyle.css" />
+        <option value="$PROJECT_DIR$/src/view/stylingBorderPane.css" />
+        <option value="$PROJECT_DIR$/src/view/stylingLabels.css" />
+        <option value="$PROJECT_DIR$/src/domain/Student.java" />
+        <option value="$PROJECT_DIR$/src/view/stylingTableView.css" />
+        <option value="$PROJECT_DIR$/src/view/stylingError.css" />
+        <option value="$PROJECT_DIR$/src/domain/Grupa.java" />
+        <option value="$PROJECT_DIR$/src/view/MainMenu.fxml" />
+        <option value="$PROJECT_DIR$/src/view/stylingButtons.css" />
+        <option value="$PROJECT_DIR$/src/view/StudentView.java" />
+        <option value="$PROJECT_DIR$/src/controller/MainMenuController.java" />
+        <option value="$PROJECT_DIR$/src/domain/TemeMAP.java" />
+        <option value="$PROJECT_DIR$/src/domain/Tema.java" />
+        <option value="$PROJECT_DIR$/data/Teme.xml" />
+        <option value="$PROJECT_DIR$/src/service/StudentService.java" />
+        <option value="$PROJECT_DIR$/src/view/noteView.fxml" />
+        <option value="$PROJECT_DIR$/src/view/studentiCuUn.fxml" />
+        <option value="$PROJECT_DIR$/src/view/studentiCuUnAnumitNume.fxml" />
+        <option value="$PROJECT_DIR$/src/ui/UI.java" />
+        <option value="$PROJECT_DIR$/src/view/Main.java" />
+        <option value="$PROJECT_DIR$/src/utils/NotaEventType.java" />
+        <option value="$PROJECT_DIR$/src/utils/NotaAddEvent.java" />
+        <option value="$PROJECT_DIR$/src/service/NotaService.java" />
+        <option value="$PROJECT_DIR$/src/view/previewRoot.fxml" />
+        <option value="$PROJECT_DIR$/src/controller/PreviewController.java" />
+        <option value="$PROJECT_DIR$/src/domain/NotaDTO.java" />
+        <option value="$PROJECT_DIR$/src/utils/AutoCompleteTextField.java" />
+        <option value="$PROJECT_DIR$/src/utils/Utils.java" />
+        <option value="$PROJECT_DIR$/data/Studenti.xml" />
+        <option value="$PROJECT_DIR$/data/Catalog.xml" />
+        <option value="$PROJECT_DIR$/src/controller/NoteController.java" />
+        <option value="$PROJECT_DIR$/src/repository/inMemory/StudentInMemoryRepository.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="map_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="map_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="map_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="map_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="map_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="map_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="map_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="map_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="map_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="map_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551821017071" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="service.tests" />
+      <recent name="repository.inFile" />
+      <recent name="repository.inMemory.tests" />
+      <recent name="validator.temaValidatortests" />
+      <recent name="validator.studentValidatorTests" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cristina\Desktop\map_3\resources" />
+      <recent name="C:\Users\Cristina\Desktop\map_3\src\view" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="map_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentInFileRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="map_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="repository.inFile.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="repository.inFile.tests" />
+      <option name="MAIN_CLASS_NAME" value="repository.inFile.tests.StudentInFileRepositoryTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemaServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="map_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service.tests" />
+      <option name="MAIN_CLASS_NAME" value="service.tests.TemaServiceTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemaServiceTest.prelungireDeadline" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="map_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service.tests" />
+      <option name="MAIN_CLASS_NAME" value="service.tests.TemaServiceTest" />
+      <option name="METHOD_NAME" value="prelungireDeadline" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemaServiceTest.update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="map_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service.tests" />
+      <option name="MAIN_CLASS_NAME" value="service.tests.TemaServiceTest" />
+      <option name="METHOD_NAME" value="update" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.TemaServiceTest.update" />
+      <item itemvalue="JUnit.TemaServiceTest.prelungireDeadline" />
+      <item itemvalue="JUnit.TemaServiceTest" />
+      <item itemvalue="JUnit.StudentInFileRepositoryTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.StudentInFileRepositoryTest" />
+        <item itemvalue="JUnit.TemaServiceTest" />
+        <item itemvalue="JUnit.TemaServiceTest.prelungireDeadline" />
+        <item itemvalue="JUnit.TemaServiceTest.update" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ca8b838-7237-4282-bfd3-aef71393be15" name="Default Changelist" comment="" />
+      <created>1540583714388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540583714388</updated>
+      <workItem from="1540583718377" duration="6876000" />
+      <workItem from="1540637358388" duration="114000" />
+      <workItem from="1540642044028" duration="9678000" />
+      <workItem from="1540674200580" duration="3730000" />
+      <workItem from="1540718840389" duration="193000" />
+      <workItem from="1540719178573" duration="11005000" />
+      <workItem from="1540736113584" duration="16927000" />
+      <workItem from="1540755407972" duration="261000" />
+      <workItem from="1540766080918" duration="167000" />
+      <workItem from="1540794048693" duration="248000" />
+      <workItem from="1540809929592" duration="11441000" />
+      <workItem from="1540829192516" duration="1043000" />
+      <workItem from="1540839621465" duration="601000" />
+      <workItem from="1541237833883" duration="51000" />
+      <workItem from="1541244342306" duration="26915000" />
+      <workItem from="1541323294190" duration="30089000" />
+      <workItem from="1541360240206" duration="271000" />
+      <workItem from="1541360534163" duration="14000" />
+      <workItem from="1541415184799" duration="9470000" />
+      <workItem from="1541433141581" duration="2971000" />
+      <workItem from="1541866883383" duration="16033000" />
+      <workItem from="1541918674517" duration="32099000" />
+      <workItem from="1541963697505" duration="7375000" />
+      <workItem from="1541971275609" duration="2889000" />
+      <workItem from="1542021994276" duration="8836000" />
+      <workItem from="1542038454379" duration="1617000" />
+      <workItem from="1542475630113" duration="12463000" />
+      <workItem from="1542491417908" duration="1128000" />
+      <workItem from="1542642878212" duration="1706000" />
+      <workItem from="1543077560457" duration="378000" />
+      <workItem from="1543078122067" duration="14620000" />
+      <workItem from="1543139414284" duration="7606000" />
+      <workItem from="1543156035164" duration="3593000" />
+      <workItem from="1543159714534" duration="21161000" />
+      <workItem from="1543182734497" duration="221000" />
+      <workItem from="1543219415449" duration="2520000" />
+      <workItem from="1543224172769" duration="2829000" />
+      <workItem from="1543232359570" duration="11310000" />
+      <workItem from="1543247937150" duration="241000" />
+      <workItem from="1543248230295" duration="92000" />
+      <workItem from="1543306650524" duration="14000" />
+      <workItem from="1543314988433" duration="1660000" />
+      <workItem from="1543325643897" duration="2347000" />
+      <workItem from="1543339787261" duration="11000" />
+      <workItem from="1543340101634" duration="4978000" />
+      <workItem from="1543395909733" duration="631000" />
+      <workItem from="1543411351892" duration="5731000" />
+      <workItem from="1543496867255" duration="598000" />
+      <workItem from="1543568480635" duration="30054000" />
+      <workItem from="1543654974085" duration="34164000" />
+      <workItem from="1543741952724" duration="38150000" />
+      <workItem from="1543823913717" duration="970000" />
+      <workItem from="1543837034330" duration="35939000" />
+      <workItem from="1543910502785" duration="9420000" />
+      <workItem from="1543920997425" duration="643000" />
+      <workItem from="1544097665226" duration="206000" />
+      <workItem from="1544105020999" duration="1331000" />
+      <workItem from="1544280490893" duration="63000" />
+      <workItem from="1544440174017" duration="1127000" />
+      <workItem from="1544442276936" duration="22000" />
+      <workItem from="1544442431190" duration="834000" />
+      <workItem from="1544443471493" duration="10000" />
+      <workItem from="1544445839384" duration="185000" />
+      <workItem from="1544447100662" duration="747000" />
+      <workItem from="1544457108583" duration="77000" />
+      <workItem from="1544457203455" duration="5000" />
+      <workItem from="1544457429345" duration="4829000" />
+      <workItem from="1551722175308" duration="82000" />
+      <workItem from="1551804649324" duration="4153000" />
+      <workItem from="1551878886743" duration="2416000" />
+      <workItem from="1551890261306" duration="2147000" />
+      <workItem from="1552211043074" duration="87000" />
+      <workItem from="1552211170171" duration="346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TemaServiceTest_findAll - 2018.11.05 at 15h 01m 11s.xml">
+      <configuration name="TemaServiceTest.findAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TemaServiceTest_save - 2018.11.05 at 15h 03m 01s.xml">
+      <configuration name="TemaServiceTest.save" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TemaServiceTest_delete - 2018.11.05 at 15h 03m 45s.xml">
+      <configuration name="TemaServiceTest.delete" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TemaServiceTest_update - 2018.11.05 at 15h 05m 03s.xml">
+      <configuration name="TemaServiceTest.update" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TemaServiceTest_prelungireDeadline - 2018.11.05 at 15h 12m 10s.xml">
+      <configuration name="TemaServiceTest.prelungireDeadline" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TemaServiceTest_prelungireDeadline - 2018.11.05 at 15h 12m 32s.xml">
+      <configuration name="TemaServiceTest.prelungireDeadline" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TemaServiceTest - 2018.11.05 at 15h 12m 53s.xml">
+      <configuration name="TemaServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentInFileRepositoryTest - 2018.11.11 at 21h 42m 46s.xml">
+      <configuration name="StudentInFileRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentInFileRepositoryTest - 2018.11.11 at 21h 43m 53s.xml">
+      <configuration name="StudentInFileRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentInFileRepositoryTest - 2018.11.11 at 21h 44m 40s.xml">
+      <configuration name="StudentInFileRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="464759000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21946308" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.06382979" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32907802" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.3295302" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info active="true" anchor="right" id="Coverage" order="8" side_tool="true" visible="true" weight="0.3295302" />
+      <window_info anchor="right" id="Database" order="9" weight="0.3295302" />
+      <window_info anchor="right" id="SciView" order="10" weight="0.3295302" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15570469" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.50496453" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32907802" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info active="true" anchor="right" id="Coverage" order="7" side_tool="true" visible="true" weight="0.3295302" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3295302" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.3295302" />
+      <window_info anchor="right" id="SciView" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.graphics/javafx/scene/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1804" lean-forward="true" selection-start-line="1804" selection-end-line="1804" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.controls/javafx/scene/control/PopupControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="168" column="50" selection-start-line="168" selection-start-column="50" selection-end-line="168" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/studentiCuUn.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/view/studentiCuUnAnumitNume.fxml" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.controls/javafx/scene/control/ContextMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="142" column="11" selection-start-line="142" selection-start-column="11" selection-end-line="142" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/validator/NotaValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.base/javafx/beans/property/Property.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.controls/javafx/scene/control/Dialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="221" column="13" selection-start-line="221" selection-start-column="13" selection-end-line="221" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.controls/javafx/scene/control/Alert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="107" column="30" lean-forward="true" selection-start-line="107" selection-start-column="30" selection-end-line="107" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/validator/StudentValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="64" column="52" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/NotaEventType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/FisiereStudenti/12318" />
+    <entry file="file://$PROJECT_DIR$/src/view/noteView.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.base/com/sun/javafx/property/PropertyReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="169" selection-start-line="169" selection-end-line="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/NotaAddEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/PreviewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="114" column="16" selection-start-line="114" selection-start-column="16" selection-end-line="114" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.controls/javafx/scene/control/TableColumn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="577" selection-start-line="577" selection-end-line="577" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/previewRoot.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="31" column="59" lean-forward="true" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.base/javafx/util/Callback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.controls/javafx/scene/control/DatePicker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="206" column="42" lean-forward="true" selection-start-line="206" selection-start-column="42" selection-end-line="206" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.controls/javafx/scene/control/Cell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="690" column="19" selection-start-line="690" selection-start-column="19" selection-end-line="690" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/javafx.controls/javafx/scene/control/DateCell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="50" column="21" lean-forward="true" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/time/LocalDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="2052" column="19" selection-start-line="2052" selection-start-column="19" selection-end-line="2052" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/domain/NotaDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Studenti.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Teme.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="30" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/StudentView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2760">
+          <caret line="166" column="91" selection-start-line="166" selection-start-column="41" selection-end-line="166" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Catalog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/FisiereStudenti/12320">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/NotaService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="52" column="25" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/AutoCompleteTextField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/domain/HasID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="6" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/repository/inMemory/StudentInMemoryRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="8" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/repository/inMemory/AbstractInMemoryRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2000">
+          <caret line="108" column="1" lean-forward="true" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/repository/inFile/AbstractInFileRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="88" column="17" lean-forward="true" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com</node>
+            <node x="" y="">netscape</node>
+            <node x="" y="">data</node>
+            <node x="" y="">validator</node>
+            <node x="" y="">toolbarButtonGraphics</node>
+            <node x="" y="">repository</node>
+            <node x="" y="">sun</node>
+            <node x="" y="">view</node>
+            <node x="" y="">groovyjarjarasm</node>
+            <node x="" y="">java</node>
+            <node x="" y="">ui</node>
+            <node x="" y="">javax</node>
+            <node x="" y="">utils</node>
+            <node x="" y="">javafx</node>
+            <node x="" y="">controller</node>
+            <node x="" y="">images</node>
+            <node x="" y="">oracle</node>
+            <node x="" y="">org</node>
+            <node x="" y="">JavaDoc</node>
+            <node x="" y="">exceptions</node>
+            <node x="" y="">META-INF</node>
+            <node x="" y="">jdk</node>
+            <node x="" y="">groovy</node>
+            <node x="" y="">service</node>
+            <node x="" y="">domain</node>
+            <node x="" y="">groovyjarjarcommonscli</node>
+            <node x="" y="">groovyjarjarantlr</node>
+            <node x="" y="">Main</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="331.0" y="276.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/NoteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2820">
+          <caret line="175" column="10" selection-start-line="171" selection-start-column="8" selection-end-line="175" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/UI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="225" column="39" selection-start-line="225" selection-start-column="19" selection-end-line="225" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/repository/inFile/StudentInFileRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="27" column="1" selection-start-line="9" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa14744.23380/AbstractRepository.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa14744.24698/IRepository.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa14744.25640/JdbcUtils.java" />
+    <entry file="uml://JAVA/domain">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>domain</OriginalElement>
+          <nodes>
+            <node x="288.0" y="123.0">domain.Student</node>
+            <node x="366.5" y="0.0">domain.HasID</node>
+            <node x="607.0" y="167.0">domain.Tema</node>
+            <node x="0.0" y="178.0">domain.Nota</node>
+            <node x="404.0" y="595.0">domain.tests</node>
+            <node x="0.0" y="595.0">domain.NotaDTO</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="domain.Student" target="domain.HasID">
+              <point x="0.0" y="-213.5" />
+              <point x="0.0" y="36.5" />
+            </edge>
+            <edge source="domain.Nota" target="domain.HasID">
+              <point x="0.0" y="-158.5" />
+              <point x="134.0" y="98.0" />
+              <point x="390.1666666666667" y="98.0" />
+              <point x="-47.333333333333314" y="36.5" />
+            </edge>
+            <edge source="domain.Tema" target="domain.HasID">
+              <point x="0.0" y="-169.5" />
+              <point x="706.5" y="98.0" />
+              <point x="484.83333333333337" y="98.0" />
+              <point x="47.33333333333337" y="36.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="251.0" y="307.0" />
+          <SelectedNodes>
+            <node>domain.HasID</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/repository/CrudRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="55" column="7" selection-start-line="51" selection-start-column="31" selection-end-line="55" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/domain/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="33" selection-start-line="9" selection-start-column="4" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/StudentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="21" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="113" column="27" selection-start-line="113" selection-start-column="27" selection-end-line="113" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>map_3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

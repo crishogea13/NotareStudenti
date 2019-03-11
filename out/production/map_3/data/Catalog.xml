@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog>
+    <nota idStudent="12319" idTema="7">
+        <valoare>7.5</valoare>
+        <saptamanaPredare>10</saptamanaPredare>
+    </nota>
+    <nota idStudent="12319" idTema="8">
+        <valoare>10.0</valoare>
+        <saptamanaPredare>10</saptamanaPredare>
+    </nota>
+    <nota idStudent="12319" idTema="5">
+        <valoare>7.5</valoare>
+        <saptamanaPredare>8</saptamanaPredare>
+    </nota>
+    <nota idStudent="12318" idTema="2">
+        <valoare>3.0</valoare>
+        <saptamanaPredare>5</saptamanaPredare>
+    </nota>
+    <nota idStudent="12318" idTema="3">
+        <valoare>0.0</valoare>
+        <saptamanaPredare>8</saptamanaPredare>
+    </nota>
+    <nota idStudent="12319" idTema="4">
+        <valoare>10.0</valoare>
+        <saptamanaPredare>6</saptamanaPredare>
+    </nota>
+    <nota idStudent="12321" idTema="8">
+        <valoare>10.0</valoare>
+        <saptamanaPredare>10</saptamanaPredare>
+    </nota>
+    <nota idStudent="12320" idTema="7">
+        <valoare>6.5</valoare>
+        <saptamanaPredare>10</saptamanaPredare>
+    </nota>
+    <nota idStudent="12318" idTema="1">
+        <valoare>10.0</valoare>
+        <saptamanaPredare>3</saptamanaPredare>
+    </nota>
+    <nota idStudent="12320" idTema="6">
+        <valoare>9.0</valoare>
+        <saptamanaPredare>8</saptamanaPredare>
+    </nota>
+    <nota idStudent="12321" idTema="7">
+        <valoare>5.6</valoare>
+        <saptamanaPredare>9</saptamanaPredare>
+    </nota>
+</catalog>
